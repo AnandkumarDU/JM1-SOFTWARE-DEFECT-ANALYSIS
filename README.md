@@ -8,8 +8,8 @@ software-defect dataset.
 
 ## Authors
 
-- Anand Kumar
-- Raushan Kumar
+- Anand Kumar 23294917135
+- Raushan Kumar 23294917125
 
 Batch: ECE B  
 Faculty of Technology, University of Delhi
